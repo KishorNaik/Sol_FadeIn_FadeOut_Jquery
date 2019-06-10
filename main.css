@@ -1,0 +1,21 @@
+.square{
+    height: 100px;
+    width: 100px;
+    border: 2px gray solid;
+}
+
+.redcolor{
+    background: red
+}
+
+.greencolor{
+    background: green
+}
+
+.yellowcolor{
+    background: yellow
+}
+
+.square-disable{
+    display: none
+}
